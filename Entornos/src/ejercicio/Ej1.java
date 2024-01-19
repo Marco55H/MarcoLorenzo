@@ -6,6 +6,7 @@ public class Ej1 {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		System.out.println("Soy Marco");
+		System.out.println("Soy Lorenzo");
 	}
 
 }
